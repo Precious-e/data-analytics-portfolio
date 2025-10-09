@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data-Analytics-Portfolio
 My data analytics projects using SQL, Python, Tableau, and Power BI — turning data into business insights.
 # 👋 Hi, I am Precious
 Welcome to my **Data Analytics Portfolio** —a collection of projects that demonstrate my skills in **SQL, Python (pandas, matplotlib, Streamlit)**, and **Tableau/Power BI**.
